@@ -1,0 +1,13 @@
+# flask_sklearn_dumb
+-Download all packages using npm
+-Dependencies: 
+-	Python 3.6.__
+-	pandas 0.22.0
+-	numpy 1.14.0
+-	scipy 1.0.0
+-	sklearn 0.19.1
+-	flask 0.12.2
+-Can use the versions.py to check if all dependencies are correct versions
+-
+-open command line and run : 
+-$ python ml_service
